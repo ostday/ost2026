@@ -1,2 +1,2 @@
 # ost2026
-### ostday.kr
+## https://ostday.kr
